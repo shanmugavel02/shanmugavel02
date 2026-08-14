@@ -382,21 +382,4 @@ interface
 
 <div align="center">
 
-## 🌱 My Developer Journey
 
-<br>
-
-```text
-             LEARN
-               ↓
-             BUILD
-               ↓
-            DEBUG
-               ↓
-          UNDERSTAND
-               ↓
-            IMPROVE
-               ↓
-           INNOVATE
-               ↓
-        🚀 BUILD AGAIN
