@@ -186,7 +186,7 @@
 
 # 🧠 Ecomind
 
-### AI-Powered Intelligent Desktop Application
+### AI-Powered Cognitive System
 
 <br>
 
@@ -299,27 +299,6 @@ interface
 <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black">
 
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=shanmugavel02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugavel02&layout=compact&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=shanmugavel02&theme=tokyonight&hide_border=true">
 
 </div>
 
