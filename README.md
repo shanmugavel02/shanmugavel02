@@ -53,26 +53,371 @@
 
 <table>
 <tr>
-<td align="left" width="600">
+<td align="left" width="650">
 
 ### 💡 What I Work With
 
 <br>
 
-☕ &nbsp; <strong>Java Full Stack Development</strong>
+<table>
+<tr>
+<td align="center" width="60">☕</td>
+<td align="left"><strong>Java Full Stack Development</strong></td>
+</tr>
 
-🧠 &nbsp; <strong>Artificial Intelligence & Machine Learning</strong>
+<tr>
+<td align="center" width="60">🧠</td>
+<td align="left"><strong>Artificial Intelligence & Machine Learning</strong></td>
+</tr>
 
-🌐 &nbsp; <strong>Web Application Development</strong>
+<tr>
+<td align="center" width="60">🌐</td>
+<td align="left"><strong>Web Application Development</strong></td>
+</tr>
 
-🐍 &nbsp; <strong>Python Development</strong>
+<tr>
+<td align="center" width="60">🐍</td>
+<td align="left"><strong>Python Development</strong></td>
+</tr>
 
-🏗️ &nbsp; <strong>Software Engineering & System Design</strong>
+<tr>
+<td align="center" width="60">🏗️</td>
+<td align="left"><strong>Software Engineering & System Design</strong></td>
+</tr>
 
-🚀 &nbsp; <strong>Building Real-World Projects</strong>
+<tr>
+<td align="center" width="60">🚀</td>
+<td align="left"><strong>Building Real-World Projects</strong></td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+<br>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+<br><br>
+
+### ☕ Java Full Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+
+<br><br>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 AI / ML Interests
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="150">
+🧠<br>
+<strong>Artificial<br>Intelligence</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="150">
+🤖<br>
+<strong>Machine<br>Learning</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="150">
+💬<br>
+<strong>Conversational<br>AI</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="150">
+🎤<br>
+<strong>Voice<br>Applications</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="150">
+🧩<br>
+<strong>Intelligent<br>Systems</strong>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Project
+
+# 🧠 Ecomind
+
+### AI-Powered Intelligent Desktop Application
+
+<br>
+
+<p>
+Ecomind is a Python-based intelligent application focused on
+<br>
+AI interaction, conversation and personalized user experiences.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="150">
+
+### 🧠
+
+<strong>AI</strong>
+
+<br>
+
+AI-powered
+<br>
+functionality
+
+</td>
+
+<td align="center" width="150">
+
+### 🎤
+
+<strong>VOICE</strong>
+
+<br>
+
+Voice
+<br>
+interaction
+
+</td>
+
+<td align="center" width="150">
+
+### 💬
+
+<strong>CHAT</strong>
+
+<br>
+
+Conversational
+<br>
+interaction
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="150">
+
+### 🧠
+
+<strong>MEMORY</strong>
+
+<br>
+
+Context
+<br>
+management
+
+</td>
+
+<td align="center" width="150">
+
+### 📊
+
+<strong>MOOD</strong>
+
+<br>
+
+Mood-related
+<br>
+features
+
+</td>
+
+<td align="center" width="150">
+
+### 🖥️
+
+<strong>GUI</strong>
+
+<br>
+
+Desktop
+<br>
+interface
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/shanmugavel02/miniecomind">
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black">
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shanmugavel02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugavel02&layout=compact&theme=tokyonight&hide_border=true">
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=shanmugavel02&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 Currently Learning
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="130">
+☕<br>
+<strong>Java</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🌱<br>
+<strong>Spring Boot</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🌐<br>
+<strong>REST APIs</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🗄️<br>
+<strong>Databases</strong>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7"><br></td>
+</tr>
+
+<tr>
+
+<td align="center" width="130">
+🏗️<br>
+<strong>System Design</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🧮<br>
+<strong>DSA</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🤖<br>
+<strong>AI / ML</strong>
+</td>
+
+<td width="20"></td>
+
+<td align="center" width="130">
+🌍<br>
+<strong>Open Source</strong>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 My Developer Journey
+
+<br>
+
+```text
+             LEARN
+               ↓
+             BUILD
+               ↓
+            DEBUG
+               ↓
+          UNDERSTAND
+               ↓
+            IMPROVE
+               ↓
+           INNOVATE
+               ↓
+        🚀 BUILD AGAIN
