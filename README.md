@@ -171,6 +171,12 @@ and <strong>Problem Solving</strong>.
 <tr>
 <td align="center" width="750">
 
+<div align="center">
+
+## 🚀 Featured Project
+
+<br>
+
 # 🧠 Ecomind
 
 ### AI-Powered Cognitive System
@@ -186,10 +192,6 @@ designed to provide intelligent and personalized user interaction.
 It can <strong>detect the mood of individuals</strong> and provide
 a more personalized interaction based on the detected mood.
 </p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
