@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Shanmugavel%20👋&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Shanmugavel%20%F0%9F%91%8B&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=Aspiring%20Java%20Full%20Stack%20Developer;Software%20Engineering%20Enthusiast;Building%20Practical%20Software" />
 
 <br>
 
@@ -13,13 +13,13 @@
 <br><br>
 
 <a href="https://github.com/shanmugavel02">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/shanmugavel02?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -256,9 +256,7 @@ experience
 <br>
 
 <a href="https://github.com/shanmugavel02/miniecomind">
-
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
