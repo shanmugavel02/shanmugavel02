@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Shanmugavel%20%F0%9F%91%8B&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Shanmugavel%20👋&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software+🚀" />
 
 <br>
 
@@ -11,13 +13,13 @@
 <br><br>
 
 <a href="https://github.com/shanmugavel02">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/shanmugavel02?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7B61FF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Repositories-Explore-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -25,7 +27,9 @@
 
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
+
+<br>
 
 <table>
 <tr>
@@ -47,9 +51,12 @@ and <strong>Problem Solving</strong>.
 
 <br>
 
-<h2>💡 What I Work With</h2>
+## 💡 What I Work With
+
+<br>
 
 <table>
+
 <tr>
 
 <td align="center" width="200">
@@ -105,6 +112,7 @@ and <strong>Problem Solving</strong>.
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -112,29 +120,29 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-<h2>⚡ Tech Stack</h2>
+## ⚡ Tech Stack
 
 <br>
 
-<h3>💻 Programming Languages</h3>
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 <br><br>
 
-<h3>🌐 Web Development</h3>
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 <br><br>
 
-<h3>☕ Java Full Stack</h3>
+### ☕ Java Full Stack
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 <br><br>
 
-<h3>🛠️ Tools & Platforms</h3>
+### 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
@@ -143,15 +151,17 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-<h2>🚀 Featured Project</h2>
+## 🚀 Featured Project
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="700">
 
-<h1>🧠 Ecomind</h1>
+# 🧠 Ecomind
 
-<h3>Intelligent Desktop Application</h3>
+### Intelligent Desktop Application
 
 </td>
 </tr>
@@ -165,42 +175,36 @@ and <strong>Problem Solving</strong>.
 
 <td align="center" width="200">
 
-<h2>🧠</h2>
+# 🧠
 
-<strong>INTELLIGENT</strong>
-
-<br><br>
+### INTELLIGENT
 
 Smart
-<br>
+
 functionality
 
 </td>
 
 <td align="center" width="200">
 
-<h2>💬</h2>
+# 💬
 
-<strong>INTERACTION</strong>
-
-<br><br>
+### INTERACTION
 
 Interactive
-<br>
+
 conversation
 
 </td>
 
 <td align="center" width="200">
 
-<h2>🖥️</h2>
+# 🖥️
 
-<strong>DESKTOP</strong>
-
-<br><br>
+### DESKTOP
 
 User-friendly
-<br>
+
 GUI
 
 </td>
@@ -211,42 +215,36 @@ GUI
 
 <td align="center" width="200">
 
-<h2>🎤</h2>
+# 🎤
 
-<strong>VOICE</strong>
-
-<br><br>
+### VOICE
 
 Voice-based
-<br>
+
 interaction
 
 </td>
 
 <td align="center" width="200">
 
-<h2>🧠</h2>
+# 🧠
 
-<strong>CONTEXT</strong>
-
-<br><br>
+### CONTEXT
 
 Context-aware
-<br>
+
 interaction
 
 </td>
 
 <td align="center" width="200">
 
-<h2>📊</h2>
+# 📊
 
-<strong>PERSONALIZED</strong>
-
-<br><br>
+### PERSONALIZED
 
 Personalized
-<br>
+
 experience
 
 </td>
@@ -258,7 +256,9 @@ experience
 <br>
 
 <a href="https://github.com/shanmugavel02/miniecomind">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
 </div>
@@ -266,7 +266,7 @@ experience
 
 <div align="center">
 
-<h2>📚 Currently Learning</h2>
+## 📚 Currently Learning
 
 <br>
 
@@ -343,7 +343,7 @@ experience
 
 <div align="center">
 
-<h2>🎯 Career Goal</h2>
+## 🎯 Career Goal
 
 <br>
 
@@ -363,16 +363,19 @@ problem-solving and application development skills.
 
 <h2>💻 Learn • Build • Improve • Grow 🚀</h2>
 
-<br>
+</div>
 
-<h3>⭐ Thanks for visiting my profile!</h3>
 
-<br>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shanmugavel02&style=for-the-badge&color=00E5FF"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
