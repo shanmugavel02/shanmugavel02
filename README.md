@@ -137,16 +137,16 @@
 
 ## 🚀 Featured Project
 
-# 🏠 Hostel Gatepass Management System
+# 🧠 Ecomind
 
-### Web-Based Management Application
+### Intelligent Desktop Application
 
 <br>
 
 <p>
-A practical web application designed to simplify and manage
+Ecomind is a Python-based intelligent application designed to provide
 <br>
-student hostel gatepass requests and approvals.
+interactive and personalized user experiences through a desktop interface.
 </p>
 
 <br>
@@ -157,46 +157,97 @@ student hostel gatepass requests and approvals.
 
 <td align="center" width="180">
 
-### 👨‍🎓
+### 🧠
 
-<strong>STUDENT</strong>
+<strong>INTELLIGENT</strong>
 
 <br>
 
-Gatepass <br>
-request
+Smart <br>
+functionality
 
 </td>
 
 <td align="center" width="180">
 
-### 👨‍🏫
+### 💬
 
-<strong>FACULTY</strong>
+<strong>INTERACTION</strong>
 
 <br>
 
-Request <br>
-approval
+Interactive <br>
+conversation
 
 </td>
 
 <td align="center" width="180">
 
-### 🗄️
+### 🖥️
 
-<strong>DATABASE</strong>
+<strong>DESKTOP</strong>
 
 <br>
 
-Data <br>
-management
+User-friendly <br>
+GUI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="180">
+
+### 🎤
+
+<strong>VOICE</strong>
+
+<br>
+
+Voice-based <br>
+interaction
+
+</td>
+
+<td align="center" width="180">
+
+### 🧠
+
+<strong>CONTEXT</strong>
+
+<br>
+
+Context-aware <br>
+interaction
+
+</td>
+
+<td align="center" width="180">
+
+### 📊
+
+<strong>PERSONALIZED</strong>
+
+<br>
+
+Personalized <br>
+experience
 
 </td>
 
 </tr>
 
 </table>
+
+<br>
+
+<a href="https://github.com/shanmugavel02/miniecomind">
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
 
 </div>
 
