@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shanmugavel+%F0%9F%91%8B;Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Shanmugavel%20👋&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software+🚀" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Developer-00E5FF?style=for-the-badge&logo=java&logoColor=black"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solver-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <br><br>
 
@@ -15,13 +17,13 @@
 <br><br>
 
 <a href="https://github.com/shanmugavel02">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
   
 
 <a href="https://github.com/shanmugavel02?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -30,7 +32,7 @@
 
 <div align="center">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <br>
 
@@ -57,6 +59,7 @@ and <strong>Problem Solving</strong>.
 <br>
 
 <table>
+
 <tr>
 
 <td align="center" width="200">
@@ -112,6 +115,7 @@ and <strong>Problem Solving</strong>.
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -120,37 +124,29 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <br>
 
-## 💻 Programming Languages
-
-<br>
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 <br><br>
 
-## 🌐 Web Development
-
-<br>
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 <br><br>
 
-## ☕ Java Full Stack
-
-<br>
+### ☕ Java Full Stack
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 <br><br>
 
-## 🛠️ Tools & Platforms
-
-<br>
+### 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
@@ -160,7 +156,11 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-# 🚀 Featured Project
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3"/>
+
+<br>
+
+## 🚀 Featured Project
 
 <br>
 
@@ -276,7 +276,7 @@ experience
 
 <div align="center">
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <br>
 
@@ -346,7 +346,7 @@ experience
 
 <div align="center">
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 
 <br>
 
@@ -364,7 +364,7 @@ problem-solving and application development skills.
 
 <br>
 
-# 💻 Learn • Build • Improve • Grow 🚀
+<h2>💻 Learn • Build • Improve • Grow 🚀</h2>
 
 </div>
 
@@ -377,5 +377,9 @@ problem-solving and application development skills.
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shanmugavel02&style=for-the-badge&color=00E5FF" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
