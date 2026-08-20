@@ -161,9 +161,31 @@ and <strong>Problem Solving</strong>.
 <tr>
 <td align="center" width="700">
 
+<div align="center">
+
+## 🚀 Featured Project
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="750">
+
 # 🧠 Ecomind
 
-### Intelligent Desktop Application
+### AI-Powered Cognitive System
+
+<br>
+
+<p>
+Ecomind is a <strong>fully offline AI-powered cognitive system</strong>
+designed to provide intelligent and personalized user interaction.
+</p>
+
+<p>
+It can <strong>detect the mood of individuals</strong> and provide
+a more personalized interaction based on the detected mood.
+</p>
 
 </td>
 </tr>
@@ -181,7 +203,7 @@ and <strong>Problem Solving</strong>.
 
 ### INTELLIGENT
 
-Smart
+AI-powered
 
 functionality
 
@@ -203,11 +225,11 @@ conversation
 
 # 🖥️
 
-### DESKTOP
+### OFFLINE
 
-User-friendly
+Fully offline
 
-GUI
+system
 
 </td>
 
@@ -231,11 +253,11 @@ interaction
 
 # 🧠
 
-### CONTEXT
+### MOOD
 
-Context-aware
+Mood detection
 
-interaction
+of individuals
 
 </td>
 
@@ -258,13 +280,12 @@ experience
 <br>
 
 <a href="https://github.com/shanmugavel02/miniecomind">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
 </div>
-
-
-<div align="center">
 
 ## 📚 Currently Learning
 
