@@ -27,23 +27,28 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="700">
+<td align="center" width="750">
 
-💻 <strong>I'm Shanmugavel</strong>, an aspiring
-<strong>Java Full Stack Developer</strong> passionate about building
+<h3>👋 Hello, I'm Shanmugavel</h3>
+
+<p>
+I'm an aspiring <strong>Java Full Stack Developer</strong> passionate about building
 practical and reliable software applications.
+</p>
 
-<br><br>
-
+<p>
 I am interested in <strong>Java Full Stack Development</strong>,
 <strong>Software Engineering</strong>, <strong>Web Development</strong>
 and <strong>Problem Solving</strong>.
+</p>
 
 </td>
 </tr>
@@ -51,7 +56,7 @@ and <strong>Problem Solving</strong>.
 
 <br>
 
-## 💡 What I Work With
+<h3>💡 What I Work With</h3>
 
 <br>
 
@@ -59,56 +64,56 @@ and <strong>Problem Solving</strong>.
 
 <tr>
 
-<td align="center" width="200">
-
-### ☕
-
+<td align="center" width="210">
+<br>
+☕
+<br><br>
 <strong>Java Full Stack Development</strong>
-
+<br><br>
 </td>
 
-<td align="center" width="200">
-
-### 🌐
-
+<td align="center" width="210">
+<br>
+🌐
+<br><br>
 <strong>Web Application Development</strong>
-
+<br><br>
 </td>
 
-<td align="center" width="200">
-
-### 🗄️
-
+<td align="center" width="210">
+<br>
+🗄️
+<br><br>
 <strong>Database Management</strong>
-
+<br><br>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="200">
-
-### 🏗️
-
+<td align="center" width="210">
+<br>
+🏗️
+<br><br>
 <strong>Software Engineering</strong>
-
+<br><br>
 </td>
 
-<td align="center" width="200">
-
-### 🧩
-
+<td align="center" width="210">
+<br>
+🧩
+<br><br>
 <strong>Problem Solving & DSA</strong>
-
+<br><br>
 </td>
 
-<td align="center" width="200">
-
-### 🚀
-
+<td align="center" width="210">
+<br>
+🚀
+<br><br>
 <strong>Building Real-World Projects</strong>
-
+<br><br>
 </td>
 
 </tr>
@@ -116,9 +121,6 @@ and <strong>Problem Solving</strong>.
 </table>
 
 </div>
-
-
-<div align="center">
 
 ## ⚡ Tech Stack
 
