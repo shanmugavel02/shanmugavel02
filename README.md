@@ -1,20 +1,14 @@
 <div align="center">
 
-<!-- HEADER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Shanmugavel%20%F0%9F%91%8B&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=FFFFFF"/>
-
-<!-- RUNNING / TYPING TEXT -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 
-<br><br>
+<br>
 
 <i>Building practical, reliable and user-focused software.</i>
 
 <br><br>
-
-<!-- PROFILE LINKS -->
 
 <a href="https://github.com/shanmugavel02">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
@@ -28,13 +22,10 @@
 
 </div>
 
----
 
 <div align="center">
 
-# 👨‍💻 About Me
-
-<br>
+<h2>👨‍💻 About Me</h2>
 
 <table>
 <tr>
@@ -56,9 +47,7 @@ and <strong>Problem Solving</strong>.
 
 <br>
 
-# 💡 What I Work With
-
-<br>
+<h2>💡 What I Work With</h2>
 
 <table>
 <tr>
@@ -120,61 +109,49 @@ and <strong>Problem Solving</strong>.
 
 </div>
 
----
 
 <div align="center">
 
-# ⚡ Tech Stack
+<h2>⚡ Tech Stack</h2>
 
 <br>
 
-## 💻 Programming Languages
-
-<br>
+<h3>💻 Programming Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 <br><br>
 
-## 🌐 Web Development
-
-<br>
+<h3>🌐 Web Development</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 <br><br>
 
-## ☕ Java Full Stack
-
-<br>
+<h3>☕ Java Full Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 <br><br>
 
-## 🛠️ Tools & Platforms
-
-<br>
+<h3>🛠️ Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
----
 
 <div align="center">
 
-# 🚀 Featured Project
-
-<br>
+<h2>🚀 Featured Project</h2>
 
 <table>
 <tr>
 <td align="center" width="700">
 
-# 🧠 Ecomind
+<h1>🧠 Ecomind</h1>
 
-### Intelligent Desktop Application
+<h3>Intelligent Desktop Application</h3>
 
 </td>
 </tr>
@@ -188,36 +165,42 @@ and <strong>Problem Solving</strong>.
 
 <td align="center" width="200">
 
-# 🧠
+<h2>🧠</h2>
 
-### INTELLIGENT
+<strong>INTELLIGENT</strong>
+
+<br><br>
 
 Smart
-
+<br>
 functionality
 
 </td>
 
 <td align="center" width="200">
 
-# 💬
+<h2>💬</h2>
 
-### INTERACTION
+<strong>INTERACTION</strong>
+
+<br><br>
 
 Interactive
-
+<br>
 conversation
 
 </td>
 
 <td align="center" width="200">
 
-# 🖥️
+<h2>🖥️</h2>
 
-### DESKTOP
+<strong>DESKTOP</strong>
+
+<br><br>
 
 User-friendly
-
+<br>
 GUI
 
 </td>
@@ -228,36 +211,42 @@ GUI
 
 <td align="center" width="200">
 
-# 🎤
+<h2>🎤</h2>
 
-### VOICE
+<strong>VOICE</strong>
+
+<br><br>
 
 Voice-based
-
+<br>
 interaction
 
 </td>
 
 <td align="center" width="200">
 
-# 🧠
+<h2>🧠</h2>
 
-### CONTEXT
+<strong>CONTEXT</strong>
+
+<br><br>
 
 Context-aware
-
+<br>
 interaction
 
 </td>
 
 <td align="center" width="200">
 
-# 📊
+<h2>📊</h2>
 
-### PERSONALIZED
+<strong>PERSONALIZED</strong>
+
+<br><br>
 
 Personalized
-
+<br>
 experience
 
 </td>
@@ -274,11 +263,10 @@ experience
 
 </div>
 
----
 
 <div align="center">
 
-# 📚 Currently Learning
+<h2>📚 Currently Learning</h2>
 
 <br>
 
@@ -352,11 +340,10 @@ experience
 
 </div>
 
----
 
 <div align="center">
 
-# 🎯 Career Goal
+<h2>🎯 Career Goal</h2>
 
 <br>
 
@@ -376,22 +363,16 @@ problem-solving and application development skills.
 
 <h2>💻 Learn • Build • Improve • Grow 🚀</h2>
 
-</div>
+<br>
 
----
+<h3>⭐ Thanks for visiting my profile!</h3>
 
-<div align="center">
-
-# ⭐ Thanks for visiting my profile!
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=shanmugavel02&style=for-the-badge&color=00E5FF"/>
 
 <br><br>
 
-<!-- FOOTER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
 
 </div>
