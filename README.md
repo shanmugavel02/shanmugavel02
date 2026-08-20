@@ -163,7 +163,7 @@ and <strong>Problem Solving</strong>.
 
 # 🧠 Ecomind
 
-### Intelligent Desktop Application
+### AI-Powered Cognitive System
 
 </td>
 </tr>
@@ -203,7 +203,7 @@ conversation
 
 # 🖥️
 
-### DESKTOP
+### TEXT
 
 User-friendly
 
@@ -231,11 +231,11 @@ interaction
 
 # 🧠
 
-### CONTEXT
+### MOOD
 
-Context-aware
+Mood 
 
-interaction
+detection
 
 </td>
 
