@@ -2,28 +2,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shanmugavel+%F0%9F%91%8B;Aspiring+Java+Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Software+%F0%9F%9A%80" />
 
-<br>
+<br><br>
 
-<p>
-  <strong>Java Full Stack Developer</strong> •
-  <strong>Software Engineering Enthusiast</strong> •
-  <strong>Problem Solver</strong>
-</p>
+<img src="https://img.shields.io/badge/Java%20Full%20Stack%20Developer-00E5FF?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-<p>
-  <i>Building practical, reliable and user-focused software.</i>
-</p>
+<br><br>
 
-<br>
+<i>Building practical, reliable and user-focused software.</i>
+
+<br><br>
 
 <a href="https://github.com/shanmugavel02">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
   
 
 <a href="https://github.com/shanmugavel02?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -32,68 +30,87 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-</div>
-
-<p align="center">
-  I'm <strong>Shanmugavel</strong>, an aspiring <strong>Java Full Stack Developer</strong>
-  passionate about building practical and reliable software applications.
-</p>
-
-<p align="center">
-  I am interested in <strong>Java Full Stack Development</strong>,
-  <strong>Software Engineering</strong>, <strong>Web Development</strong>
-  and <strong>Problem Solving</strong>.
-</p>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left" width="650">
-
-### 💡 What I Work With
+# 👨‍💻 About Me
 
 <br>
 
 <table>
-
 <tr>
-<td align="center" width="60">☕</td>
-<td align="left"><strong>Java Full Stack Development</strong></td>
-</tr>
+<td align="center" width="700">
 
-<tr>
-<td align="center" width="60">🌐</td>
-<td align="left"><strong>Web Application Development</strong></td>
-</tr>
+💻 <strong>I'm Shanmugavel</strong>, an aspiring <strong>Java Full Stack Developer</strong>
+passionate about building practical and reliable software applications.
 
-<tr>
-<td align="center" width="60">🗄️</td>
-<td align="left"><strong>Database Management</strong></td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center" width="60">🏗️</td>
-<td align="left"><strong>Software Engineering</strong></td>
-</tr>
-
-<tr>
-<td align="center" width="60">🧩</td>
-<td align="left"><strong>Problem Solving & DSA</strong></td>
-</tr>
-
-<tr>
-<td align="center" width="60">🚀</td>
-<td align="left"><strong>Building Real-World Projects</strong></td>
-</tr>
-
-</table>
+I am interested in <strong>Java Full Stack Development</strong>, <strong>Software Engineering</strong>, <strong>Web Development</strong>
+and <strong>Problem Solving</strong>.
 
 </td>
+</tr>
+</table>
+
+<br>
+
+## 💡 What I Work With
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="200">
+
+### ☕
+
+<strong>Java Full Stack Development</strong>
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐
+
+<strong>Web Application Development</strong>
+
+</td>
+
+<td align="center" width="200">
+
+### 🗄️
+
+<strong>Database Management</strong>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+
+### 🏗️
+
+<strong>Software Engineering</strong>
+
+</td>
+
+<td align="center" width="200">
+
+### 🧩
+
+<strong>Problem Solving & DSA</strong>
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+<strong>Building Real-World Projects</strong>
+
+</td>
+
 </tr>
 </table>
 
@@ -103,29 +120,37 @@
 
 <div align="center">
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <br>
 
-### 💻 Programming Languages
+## 💻 Programming Languages
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 <br><br>
 
-### 🌐 Web Development
+## 🌐 Web Development
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 <br><br>
 
-### ☕ Java Full Stack
+## ☕ Java Full Stack
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 <br><br>
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
@@ -135,8 +160,21 @@
 
 <div align="center">
 
-## 🚀 Featured Project # 🧠 Ecomind ### AI-Powered Cognitive System <br> <p> Ecomind is a Python-based intelligent application focused on <br> AI interaction, conversation and personalized user experiences. </p> <br> <table> <tr> <td align="center" width="150"> ### 🧠 <strong>AI</strong> <br> AI-powered <br> functionality </td> <td align="center" width="150"> ### 🎤 <strong>VOICE</strong> <br> Voice <br> interaction </td> <td align="center" width="150"> ### 💬 <strong>CHAT</strong> <br> Conversational <br> interaction </td> </tr> <tr> <td align="center" width="150"> ### 🧠 <strong>MEMORY</strong> <br> Context <br> management </td> <td align="center" width="150"> ### 📊 <strong>MOOD</strong> <br> Mood-related <br> features </td> <td align="center" width="150"> ### 🖥️ <strong>GUI</strong> <br> Desktop <br> interface </td> </tr> </table> <br> <a href="https://github.com/shanmugavel02/miniecomind"> <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"> </a> </div> --- <div align="center">
-## 📚 Currently Learning
+# 🚀 Featured Project
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="700">
+
+# 🧠 Ecomind
+
+### Intelligent Desktop Application
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -144,64 +182,158 @@
 
 <tr>
 
-<td align="center" width="140">
-☕<br>
-<strong>Java</strong>
+<td align="center" width="200">
+
+# 🧠
+
+### INTELLIGENT
+
+Smart
+
+functionality
+
 </td>
 
-<td width="20"></td>
+<td align="center" width="200">
 
-<td align="center" width="140">
-🌱<br>
-<strong>Spring Boot</strong>
+# 💬
+
+### INTERACTION
+
+Interactive
+
+conversation
+
 </td>
 
-<td width="20"></td>
+<td align="center" width="200">
 
-<td align="center" width="140">
-🌐<br>
-<strong>REST APIs</strong>
-</td>
+# 🖥️
 
-<td width="20"></td>
+### DESKTOP
 
-<td align="center" width="140">
-🗄️<br>
-<strong>MySQL</strong>
+User-friendly
+
+GUI
+
 </td>
 
 </tr>
 
 <tr>
-<td colspan="7"><br></td>
+
+<td align="center" width="200">
+
+# 🎤
+
+### VOICE
+
+Voice-based
+
+interaction
+
+</td>
+
+<td align="center" width="200">
+
+# 🧠
+
+### CONTEXT
+
+Context-aware
+
+interaction
+
+</td>
+
+<td align="center" width="200">
+
+# 📊
+
+### PERSONALIZED
+
+Personalized
+
+experience
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<a href="https://github.com/shanmugavel02/miniecomind">
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📚 Currently Learning
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="160">
+
+☕<br><br> <strong>Java</strong>
+
+</td>
+
+<td align="center" width="160">
+
+🌱<br><br> <strong>Spring Boot</strong>
+
+</td>
+
+<td align="center" width="160">
+
+🌐<br><br> <strong>REST APIs</strong>
+
+</td>
+
+<td align="center" width="160">
+
+🗄️<br><br> <strong>MySQL</strong>
+
+</td>
+
 </tr>
 
 <tr>
 
-<td align="center" width="140">
-🧮<br>
-<strong>DSA</strong>
+<td align="center" width="160">
+
+🧮<br><br> <strong>DSA</strong>
+
 </td>
 
-<td width="20"></td>
+<td align="center" width="160">
 
-<td align="center" width="140">
-🏗️<br>
-<strong>System Design</strong>
+🏗️<br><br> <strong>System Design</strong>
+
 </td>
 
-<td width="20"></td>
+<td align="center" width="160">
 
-<td align="center" width="140">
-🔧<br>
-<strong>Git & GitHub</strong>
+🔧<br><br> <strong>Git & GitHub</strong>
+
 </td>
 
-<td width="20"></td>
+<td align="center" width="160">
 
-<td align="center" width="140">
-🌍<br>
-<strong>Web Development</strong>
+🌍<br><br> <strong>Web Development</strong>
+
 </td>
 
 </tr>
@@ -214,19 +346,25 @@
 
 <div align="center">
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 <br>
 
-<p>
-  <strong>To become a skilled Java Full Stack Developer</strong>
-  by continuously improving my programming, software engineering,
-  problem-solving and application development skills.
-</p>
+<table>
+<tr>
+<td align="center" width="700">
+
+<strong>To become a skilled Java Full Stack Developer</strong>
+by continuously improving my programming, software engineering,
+problem-solving and application development skills.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<i>💻 Learn • Build • Improve • Grow 🚀</i>
+# 💻 Learn • Build • Improve • Grow 🚀
 
 </div>
 
@@ -236,7 +374,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shanmugavel02&style=for-the-badge&color=00E5FF" />
 
