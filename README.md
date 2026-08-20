@@ -27,28 +27,23 @@
 
 <div align="center">
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="750">
+<td align="center" width="700">
 
-<h3>👋 Hello, I'm Shanmugavel</h3>
-
-<p>
-I'm an aspiring <strong>Java Full Stack Developer</strong> passionate about building
+💻 <strong>I'm Shanmugavel</strong>, an aspiring
+<strong>Java Full Stack Developer</strong> passionate about building
 practical and reliable software applications.
-</p>
 
-<p>
+<br><br>
+
 I am interested in <strong>Java Full Stack Development</strong>,
 <strong>Software Engineering</strong>, <strong>Web Development</strong>
 and <strong>Problem Solving</strong>.
-</p>
 
 </td>
 </tr>
@@ -56,7 +51,7 @@ and <strong>Problem Solving</strong>.
 
 <br>
 
-<h3>💡 What I Work With</h3>
+## 💡 What I Work With
 
 <br>
 
@@ -64,56 +59,56 @@ and <strong>Problem Solving</strong>.
 
 <tr>
 
-<td align="center" width="210">
-<br>
-☕
-<br><br>
+<td align="center" width="200">
+
+### ☕
+
 <strong>Java Full Stack Development</strong>
-<br><br>
+
 </td>
 
-<td align="center" width="210">
-<br>
-🌐
-<br><br>
+<td align="center" width="200">
+
+### 🌐
+
 <strong>Web Application Development</strong>
-<br><br>
+
 </td>
 
-<td align="center" width="210">
-<br>
-🗄️
-<br><br>
+<td align="center" width="200">
+
+### 🗄️
+
 <strong>Database Management</strong>
-<br><br>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="210">
-<br>
-🏗️
-<br><br>
+<td align="center" width="200">
+
+### 🏗️
+
 <strong>Software Engineering</strong>
-<br><br>
+
 </td>
 
-<td align="center" width="210">
-<br>
-🧩
-<br><br>
+<td align="center" width="200">
+
+### 🧩
+
 <strong>Problem Solving & DSA</strong>
-<br><br>
+
 </td>
 
-<td align="center" width="210">
-<br>
-🚀
-<br><br>
+<td align="center" width="200">
+
+### 🚀
+
 <strong>Building Real-World Projects</strong>
-<br><br>
+
 </td>
 
 </tr>
@@ -121,6 +116,9 @@ and <strong>Problem Solving</strong>.
 </table>
 
 </div>
+
+
+<div align="center">
 
 ## ⚡ Tech Stack
 
@@ -153,97 +151,118 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-<div align="center">
-
 ## 🚀 Featured Project
 
 <br>
 
+<table>
+<tr>
+<td align="center" width="700">
+
 # 🧠 Ecomind
 
-### AI-Powered Cognitive System
+### Intelligent Desktop Application
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<p>
-Ecomind is a <strong>fully offline AI-powered cognitive system</strong>
-designed to provide intelligent and personalized user interaction.
-</p>
+<table>
 
-<p>
-It can <strong>detect the mood of individuals</strong> and provide
-a more personalized interaction based on the detected mood.
-</p>
+<tr>
 
-<br>
+<td align="center" width="200">
 
-<div>
+# 🧠
 
-<span>
-🧠<br>
-<strong>INTELLIGENT</strong><br>
-AI-powered<br>
+### INTELLIGENT
+
+Smart
+
 functionality
-</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<span>
-💬<br>
-<strong>INTERACTION</strong><br>
-Interactive<br>
+<td align="center" width="200">
+
+# 💬
+
+### INTERACTION
+
+Interactive
+
 conversation
-</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<span>
-🖥️<br>
-<strong>OFFLINE</strong><br>
-Fully offline<br>
-system
-</span>
+<td align="center" width="200">
 
-</div>
+# 🖥️
 
-<br><br>
+### DESKTOP
 
-<div>
+User-friendly
 
-<span>
-🎤<br>
-<strong>VOICE</strong><br>
-Voice-based<br>
+GUI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+
+# 🎤
+
+### VOICE
+
+Voice-based
+
 interaction
-</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<span>
-🧠<br>
-<strong>MOOD</strong><br>
-Mood detection<br>
-of individuals
-</span>
+<td align="center" width="200">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+# 🧠
 
-<span>
-📊<br>
-<strong>PERSONALIZED</strong><br>
-Personalized<br>
+### CONTEXT
+
+Context-aware
+
+interaction
+
+</td>
+
+<td align="center" width="200">
+
+# 📊
+
+### PERSONALIZED
+
+Personalized
+
 experience
-</span>
 
-</div>
+</td>
 
-<br><br>
+</tr>
+
+</table>
+
+<br>
 
 <a href="https://github.com/shanmugavel02/miniecomind">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
+
+
+<div align="center">
 
 ## 📚 Currently Learning
 
