@@ -153,24 +153,6 @@ and <strong>Problem Solving</strong>.
 
 <div align="center">
 
-## 🚀 Featured Project
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="700">
-
-<div align="center">
-
-## 🚀 Featured Project
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="750">
-
 <div align="center">
 
 ## 🚀 Featured Project
@@ -195,96 +177,70 @@ a more personalized interaction based on the detected mood.
 
 <br>
 
-<table>
+<div>
 
-<tr>
-
-<td align="center" width="200">
-
-# 🧠
-
-### INTELLIGENT
-
-AI-powered
-
+<span>
+🧠<br>
+<strong>INTELLIGENT</strong><br>
+AI-powered<br>
 functionality
+</span>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="200">
-
-# 💬
-
-### INTERACTION
-
-Interactive
-
+<span>
+💬<br>
+<strong>INTERACTION</strong><br>
+Interactive<br>
 conversation
+</span>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="200">
-
-# 🖥️
-
-### OFFLINE
-
-Fully offline
-
+<span>
+🖥️<br>
+<strong>OFFLINE</strong><br>
+Fully offline<br>
 system
+</span>
 
-</td>
+</div>
 
-</tr>
+<br><br>
 
-<tr>
+<div>
 
-<td align="center" width="200">
-
-# 🎤
-
-### VOICE
-
-Voice-based
-
+<span>
+🎤<br>
+<strong>VOICE</strong><br>
+Voice-based<br>
 interaction
+</span>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="200">
-
-# 🧠
-
-### MOOD
-
-Mood detection
-
+<span>
+🧠<br>
+<strong>MOOD</strong><br>
+Mood detection<br>
 of individuals
+</span>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="200">
-
-# 📊
-
-### PERSONALIZED
-
-Personalized
-
+<span>
+📊<br>
+<strong>PERSONALIZED</strong><br>
+Personalized<br>
 experience
+</span>
 
-</td>
+</div>
 
-</tr>
-
-</table>
-
-<br>
+<br><br>
 
 <a href="https://github.com/shanmugavel02/miniecomind">
-
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-
 </a>
 
 </div>
